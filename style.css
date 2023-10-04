@@ -24,6 +24,15 @@ body{
     box-shadow: 0 35px 55px rgba(0, 0, 0, 0.1);
 }
 
+/*RESPONSIVIDADE*/
+@media screen and (max-width: 800px){
+
+    body {
+        margin-right: 0;
+    }
+
+    
+
 /* Começo do style da parte esquerda. */
 
 .container .left-Side{
@@ -250,5 +259,5 @@ p {
     font-weight: 500;
 }
 
-
+}
 /* Fim do style da parte direita. */

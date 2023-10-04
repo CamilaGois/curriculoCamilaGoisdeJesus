@@ -27,10 +27,6 @@ body{
 /*RESPONSIVIDADE*/
 @media screen and (max-width: 800px){
 
-    body {
-        margin-right: 0;
-    }
-
 }
 
 /* Começo do style da parte esquerda. */
